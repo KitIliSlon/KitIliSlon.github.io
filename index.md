@@ -11,7 +11,7 @@ published: true
 
 # Сентябрь 2024 года
 
-* [Мета-литературный проект](https://kitilislon.github.io/2024-09-25)
+* [25 сентября: Мета-литературный проект](https://kitilislon.github.io/2024-09-25)
 
 
 
