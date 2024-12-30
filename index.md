@@ -56,8 +56,8 @@ published: true
 * [25 декабря: Святитель Спиридон](https://kitilislon.github.io/2024-12-25)
 * [26 декабря: Вечерние прогулки](https://kitilislon.github.io/2024-12-26)
 * [27 декабря: Месячник Хемингуэя](https://kitilislon.github.io/2024-12-27)
-* 30 декабря: Итоги
-* 31 декабря: С Новым годом!
+* [30 декабря: Итоги](https://kitilislon.github.io/2024-12-30)
+* [31 декабря: С Новым годом!](https://kitilislon.github.io/2024-12-31)
 
 ## Январь 2025 года
 
