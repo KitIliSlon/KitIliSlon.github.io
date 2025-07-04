@@ -139,8 +139,8 @@ published: true
 
 * [1 июня: Морские черепахи](https://kitilislon.github.io/2025-06-01)
 * [3 июня: Музей доктора Барнса](https://kitilislon.github.io/2025-06-03)
-* 6 июня: «Евгений Онегин»
-* 9 июня: «Евгений Онегин» (окончание)
+* [6 июня: «Евгений Онегин»](https://kitilislon.github.io/2025-06-06)
+* [9 июня: «Евгений Онегин» (окончание)](https://kitilislon.github.io/2025-06-09)
 * [12 июня: «За рекой в тени деревьев»](https://kitilislon.github.io/2025-06-12)
 * [13 июня: День слонокитов](https://kitilislon.github.io/2025-06-13)
 * [16 июня: «Улисс»](https://kitilislon.github.io/2025-06-16)
