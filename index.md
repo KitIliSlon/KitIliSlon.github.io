@@ -153,7 +153,7 @@ published: true
 
 ## Июль 2025 года
 
-* [2 июля: Смерть Набокова](https://kitilislon.github.io/2025-07-02А)
+* [2 июля: Смерть Набокова](https://kitilislon.github.io/2025-07-02A)
 * [2 июля: Смерть Хемингуэя](https://kitilislon.github.io/2025-07-02B)
 * [5 июля: Смерть Набокова (окончание)](https://kitilislon.github.io/2025-07-05)
 * [7 июля: Иоанн Креститель](https://kitilislon.github.io/2025-07-07)
