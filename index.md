@@ -162,7 +162,7 @@ published: true
 * [13 июля: Хемингуэй в Испании (окончание)](https://kitilislon.github.io/2025-07-13)
 * [15 июля: «Лолита»](https://kitilislon.github.io/2025-07-15)
 * [17 июля: «Лолита» (окончание)](https://kitilislon.github.io/2025-07-17)
-* 19 июля: Экранизации «Лолиты»
+* [19 июля: Экранизации «Лолиты»](https://kitilislon.github.io/2025-07-19)
 * [21 июля: День рождения Хемингуэя](https://kitilislon.github.io/2025-07-21)
 * [23 июля: День рождения Хемингуэя (окончание)](https://kitilislon.github.io/2025-07-23)
 * [26 июля: Хемингуэй на Западном острове](https://kitilislon.github.io/2025-07-26)
