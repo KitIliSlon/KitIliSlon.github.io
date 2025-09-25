@@ -200,6 +200,6 @@ published: true
 * [18 сентября: «Истинная жизнь Себастьяна Найта»](https://kitilislon.github.io/2025-09-18)
 * [21 сентября: Итоги](https://kitilislon.github.io/2025-09-21)
 * [24 сентября: Фотоэмульсия памяти](https://kitilislon.github.io/2025-09-24)
-* [25 сентября: Последний выпуск](https://kitilislon.github.io/2025-09-24)
+* [25 сентября: Последний выпуск](https://kitilislon.github.io/2025-09-25)
 
 
